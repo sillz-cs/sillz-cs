@@ -2,7 +2,7 @@
 
 - Computer Science student | Front-end Developer Intern
 - Currently learning: React, Tailwind CSS
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/samir-awwad-979711351/) or [Email](mailto:you@example.com)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/samir-awwad-979711351/) or [Email](sillzprod@gmail.com)
 
 ### 🛠️ Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
